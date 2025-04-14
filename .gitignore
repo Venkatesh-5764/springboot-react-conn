@@ -1,0 +1,14 @@
+# Java (Spring Boot)
+demo/target/
+*.class
+*.jar
+
+# Node (React)
+springreact/react-springboot-frontend/node_modules/
+springreact/react-springboot-frontend/build/
+
+# IntelliJ + system files
+.idea/
+*.iml
+.DS_Store
+.env
